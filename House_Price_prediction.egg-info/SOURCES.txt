@@ -1,0 +1,7 @@
+README.md
+setup.py
+House_Price_prediction.egg-info/PKG-INFO
+House_Price_prediction.egg-info/SOURCES.txt
+House_Price_prediction.egg-info/dependency_links.txt
+House_Price_prediction.egg-info/requires.txt
+House_Price_prediction.egg-info/top_level.txt
